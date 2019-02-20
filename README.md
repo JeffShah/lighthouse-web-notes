@@ -1,3 +1,5 @@
+[Home page](https://github.com/JeffShah)
+
 # Jaffar's Notes
 ## Today's note
 This is ReadMe file, and I am writing some notes in here.
@@ -14,7 +16,7 @@ This repository contains all of the notes taken by [Mr. Jaffar](https://github.c
   Scope
 
 
-Learning Outcomes
+### Learning Outcomes
 Reading Code
 In this breakout we'll practice reading and evaluating pre-written code in our head. Developers don't read code top to bottom, and instead in some ways try to mimic the computer.
 Scopes
@@ -23,7 +25,7 @@ Scopes and how they work through Functions.
 Intro
 You guys have started to write some small programs in JavaScript and now you are ready to learn about some new important concepts
 
-Functions as values
+### Functions as values
 Reading Code
 Scope, in general and in JavaScript
 Functions as Values
@@ -66,7 +68,7 @@ It will then start at the top of the program and work it's way down a file follo
 
 Just beacuse you can write does not mean that you can read it, IT TAKES PRACTICE!
 
-Scope
+### Scope
 What is Scope?
 Anyone who has previous programming experience, scope in JavaScript may differe from what you understand scope to be as scope differs from language to language
 
@@ -104,7 +106,7 @@ int main(void)
 /* This is value of x: 0 after the new block is done */
 JavaScript can be block scoped when declaring variables using let and const which you will see in the coming weeks. Don't worry about it now.
 
-Lexically Scoped
+### Lexically Scoped
 When using var javascript scopes variables lexically
 
 Lexical Scope: A new scope is created for each function and we have access to the Scope Chain
