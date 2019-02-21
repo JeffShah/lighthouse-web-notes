@@ -126,3 +126,5 @@ Within a function try to declare all of your variable at the start of the functi
 Scope allows an inner function to get access to the parameters and the variables of the function it was defined within. This is a very powerful feature of JavaScript An innner function has access to the context in which it wa created
 
 This is refered to as Closure and you will see more of it in the coming weeks.
+
+[Home page](https://github.com/JeffShah)
